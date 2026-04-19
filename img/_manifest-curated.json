@@ -1,0 +1,260 @@
+{
+  "generatedAt": "2026-03-11T13:47:24.047Z",
+  "sourceManifest": "img/_manifest.json",
+  "selected": [
+    {
+      "id": "kia-rio",
+      "type": "cars",
+      "outputBase": "kia-rio",
+      "sourceName": "kia-rio-iv-1-6-at",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/10/kiarionew.jpg",
+      "files": [
+        {
+          "source": "img/cars/kia-rio-iv-1-6-at-320.webp",
+          "output": "img\\cars\\kia-rio-320.webp"
+        },
+        {
+          "source": "img/cars/kia-rio-iv-1-6-at-480.webp",
+          "output": "img\\cars\\kia-rio-480.webp"
+        },
+        {
+          "source": "img/cars/kia-rio-iv-1-6-at-600.webp",
+          "output": "img\\cars\\kia-rio-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "hyundai-solaris",
+      "type": "cars",
+      "outputBase": "hyundai-solaris",
+      "sourceName": "hyundai-solaris-1-6-at-sedan-2021",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/11/solaris2021s.png",
+      "files": [
+        {
+          "source": "img/cars/hyundai-solaris-1-6-at-sedan-2021-320.webp",
+          "output": "img\\cars\\hyundai-solaris-320.webp"
+        },
+        {
+          "source": "img/cars/hyundai-solaris-1-6-at-sedan-2021-480.webp",
+          "output": "img\\cars\\hyundai-solaris-480.webp"
+        },
+        {
+          "source": "img/cars/hyundai-solaris-1-6-at-sedan-2021-546.webp",
+          "output": "img\\cars\\hyundai-solaris-546.webp"
+        }
+      ]
+    },
+    {
+      "id": "skoda-rapid",
+      "type": "cars",
+      "outputBase": "skoda-rapid",
+      "sourceName": "skoda-rapid-1-6-at-liftback",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2023/06/skodarapidnew.jpg",
+      "files": [
+        {
+          "source": "img/cars/skoda-rapid-1-6-at-liftback-320.webp",
+          "output": "img\\cars\\skoda-rapid-320.webp"
+        },
+        {
+          "source": "img/cars/skoda-rapid-1-6-at-liftback-480.webp",
+          "output": "img\\cars\\skoda-rapid-480.webp"
+        },
+        {
+          "source": "img/cars/skoda-rapid-1-6-at-liftback-600.webp",
+          "output": "img\\cars\\skoda-rapid-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "volkswagen-polo",
+      "type": "cars",
+      "outputBase": "volkswagen-polo",
+      "sourceName": "volkswagen-polo-1-6-at-liftback-2023",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2023/03/polo23.png",
+      "files": [
+        {
+          "source": "img/cars/volkswagen-polo-1-6-at-liftback-2023-320.webp",
+          "output": "img\\cars\\volkswagen-polo-320.webp"
+        },
+        {
+          "source": "img/cars/volkswagen-polo-1-6-at-liftback-2023-480.webp",
+          "output": "img\\cars\\volkswagen-polo-480.webp"
+        },
+        {
+          "source": "img/cars/volkswagen-polo-1-6-at-liftback-2023-600.webp",
+          "output": "img\\cars\\volkswagen-polo-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "moskvich-3",
+      "type": "cars",
+      "outputBase": "moskvich-3",
+      "sourceName": "moskvich-3-1-5t-cvt-136-l-s",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2024/09/moskvich3.webp",
+      "files": [
+        {
+          "source": "img/cars/moskvich-3-1-5t-cvt-136-l-s-320.webp",
+          "output": "img\\cars\\moskvich-3-320.webp"
+        },
+        {
+          "source": "img/cars/moskvich-3-1-5t-cvt-136-l-s-480.webp",
+          "output": "img\\cars\\moskvich-3-480.webp"
+        },
+        {
+          "source": "img/cars/moskvich-3-1-5t-cvt-136-l-s-600.webp",
+          "output": "img\\cars\\moskvich-3-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "changan-eado-plus",
+      "type": "cars",
+      "outputBase": "changan-eado-plus",
+      "sourceName": "changan-eado-plus-dlx-1-4-155-l-s",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2024/09/changaneado.webp",
+      "files": [
+        {
+          "source": "img/cars/changan-eado-plus-dlx-1-4-155-l-s-320.webp",
+          "output": "img\\cars\\changan-eado-plus-320.webp"
+        },
+        {
+          "source": "img/cars/changan-eado-plus-dlx-1-4-155-l-s-480.webp",
+          "output": "img\\cars\\changan-eado-plus-480.webp"
+        },
+        {
+          "source": "img/cars/changan-eado-plus-dlx-1-4-155-l-s-600.webp",
+          "output": "img\\cars\\changan-eado-plus-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "changan-lamora",
+      "type": "cars",
+      "outputBase": "changan-lamora",
+      "sourceName": "changan-lamora",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2024/09/changanlamora.webp",
+      "files": [
+        {
+          "source": "img/cars/changan-lamora-320.webp",
+          "output": "img\\cars\\changan-lamora-320.webp"
+        },
+        {
+          "source": "img/cars/changan-lamora-480.webp",
+          "output": "img\\cars\\changan-lamora-480.webp"
+        },
+        {
+          "source": "img/cars/changan-lamora-600.webp",
+          "output": "img\\cars\\changan-lamora-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "logo-main",
+      "type": "common",
+      "outputBase": "logo-main",
+      "sourceName": "kompaniya-sabor-7-912-882-15-36-342-2-770-770-perm-ul",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/10/logo_sabor_200_black.png",
+      "files": [
+        {
+          "source": "img/cars/kompaniya-sabor-7-912-882-15-36-342-2-770-770-perm-ul-199.webp",
+          "output": "img\\common\\logo-main.webp"
+        }
+      ]
+    },
+    {
+      "id": "logo-small",
+      "type": "common",
+      "outputBase": "logo-small",
+      "sourceName": "sabor-prokat-i-arenda-avtomobilei-v-permi",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/10/logo_sabor_48_black.png",
+      "files": [
+        {
+          "source": "img/cars/sabor-prokat-i-arenda-avtomobilei-v-permi-77.webp",
+          "output": "img\\common\\logo-small.webp"
+        }
+      ]
+    },
+    {
+      "id": "rent-hero",
+      "type": "common",
+      "outputBase": "rent-hero",
+      "sourceName": "perm-prokat-avto",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/10/perm-gto.jpg",
+      "files": [
+        {
+          "source": "img/cars/perm-prokat-avto-320.webp",
+          "output": "img\\common\\rent-hero-320.webp"
+        },
+        {
+          "source": "img/cars/perm-prokat-avto-480.webp",
+          "output": "img\\common\\rent-hero-480.webp"
+        },
+        {
+          "source": "img/cars/perm-prokat-avto-600.webp",
+          "output": "img\\common\\rent-hero-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "contacts-image",
+      "type": "common",
+      "outputBase": "contacts-image",
+      "sourceName": "kompaniya-sabor",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2022/10/sabor_mar.png",
+      "files": [
+        {
+          "source": "img/cars/kompaniya-sabor-320.webp",
+          "output": "img\\common\\contacts-image-320.webp"
+        },
+        {
+          "source": "img/cars/kompaniya-sabor-480.webp",
+          "output": "img\\common\\contacts-image-480.webp"
+        },
+        {
+          "source": "img/cars/kompaniya-sabor-600.webp",
+          "output": "img\\common\\contacts-image-600.webp"
+        }
+      ]
+    },
+    {
+      "id": "telegram",
+      "type": "common",
+      "outputBase": "telegram",
+      "sourceName": "telegram-saborauto-arenda-i-prokat-avtomobilei-v-permi",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2023/06/button_telegram.png",
+      "files": [
+        {
+          "source": "img/cars/telegram-saborauto-arenda-i-prokat-avtomobilei-v-permi-512.webp",
+          "output": "img\\common\\telegram.webp"
+        }
+      ]
+    },
+    {
+      "id": "viber",
+      "type": "common",
+      "outputBase": "viber",
+      "sourceName": "viber-saborauto-arenda-i-prokat-avtomobilei-v-permi",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2023/06/button_viber.png",
+      "files": [
+        {
+          "source": "img/cars/viber-saborauto-arenda-i-prokat-avtomobilei-v-permi-512.webp",
+          "output": "img\\common\\viber.webp"
+        }
+      ]
+    },
+    {
+      "id": "whatsapp",
+      "type": "common",
+      "outputBase": "whatsapp",
+      "sourceName": "whatsapp-saborauto-arenda-i-prokat-avtomobilei-v-permi",
+      "oldUrl": "https://saborauto.ru/wp-content/uploads/2023/06/button_whatsapp.png",
+      "files": [
+        {
+          "source": "img/cars/whatsapp-saborauto-arenda-i-prokat-avtomobilei-v-permi-512.webp",
+          "output": "img\\common\\whatsapp.webp"
+        }
+      ]
+    }
+  ]
+}

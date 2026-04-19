@@ -1,0 +1,103 @@
+{
+  "kia": {
+    "label": "Kia Rio IV 1,6 AT",
+    "periods": [
+      "4-7 дней",
+      "8-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      2100,
+      2100,
+      2000
+    ],
+    "km": 10,
+    "deposit": 3000
+  },
+  "solaris": {
+    "label": "Hyundai Solaris 1,6 AT sedan 2021",
+    "periods": [
+      "4-7 дней",
+      "8-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      2300,
+      2300,
+      2100
+    ],
+    "km": 10,
+    "deposit": 5000
+  },
+  "rapid": {
+    "label": "Skoda Rapid 1,6 AT liftback",
+    "periods": [
+      "4-7 дней",
+      "8-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      2400,
+      2400,
+      2300
+    ],
+    "km": 10,
+    "deposit": 5000
+  },
+  "moskvich": {
+    "label": "Москвич 3, 1,5T CVT (136 л.с.)",
+    "periods": [
+      "4-7 дней",
+      "8-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      2500,
+      2500,
+      2400
+    ],
+    "km": 15,
+    "deposit": 5000
+  },
+  "polo": {
+    "label": "Volkswagen Polo 1.6 АТ liftback 2023",
+    "periods": [
+      "4-7 дней",
+      "8-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      2400,
+      2400,
+      2300
+    ],
+    "km": 10,
+    "deposit": 5000
+  },
+  "lamora": {
+    "label": "Changan Lamora",
+    "periods": [
+      "7-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      3200,
+      3000
+    ],
+    "km": 20,
+    "deposit": 7000
+  },
+  "eado": {
+    "label": "Changan EADO Plus DLX 1,4 (155 л.с.)",
+    "periods": [
+      "5-30 дней",
+      "более 30 дней"
+    ],
+    "prices": [
+      3000,
+      2800
+    ],
+    "km": 15,
+    "deposit": 5000
+  }
+}
